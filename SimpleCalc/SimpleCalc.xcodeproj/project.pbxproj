@@ -301,7 +301,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PKYZS83VA8;
+				DEVELOPMENT_TEAM = 54LMG7G6XN;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -311,7 +311,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PKYZS83VA8;
+				DEVELOPMENT_TEAM = 54LMG7G6XN;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -322,7 +322,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = PKYZS83VA8;
+				DEVELOPMENT_TEAM = 54LMG7G6XN;
 				INFOPLIST_FILE = SimpleCalcTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.newardassociates.demo.SimpleCalcTests;
@@ -336,7 +336,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = PKYZS83VA8;
+				DEVELOPMENT_TEAM = 54LMG7G6XN;
 				INFOPLIST_FILE = SimpleCalcTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.newardassociates.demo.SimpleCalcTests;

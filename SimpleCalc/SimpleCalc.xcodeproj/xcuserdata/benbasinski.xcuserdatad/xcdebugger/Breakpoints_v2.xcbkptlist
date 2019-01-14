@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleCalc/main.swift"
+            timestampString = "569191457.3625619"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "calculate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleCalcTests.Calculator.calculate(Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Int"
+                  moduleName = "SimpleCalcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/benbasinski/OneDrive%20-%20UW/UW%202018/2.%20Winter%20&apos;19/INFO%20449/Homeworks/HW2/uw-ios-simplecalc/SimpleCalc/SimpleCalc/main.swift"
+                  timestampString = "569177124.250937"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Int in SimpleCalcTests.Calculator.calculate(Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Int"
+                  moduleName = "SimpleCalcTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/benbasinski/OneDrive%20-%20UW/UW%202018/2.%20Winter%20&apos;19/INFO%20449/Homeworks/HW2/uw-ios-simplecalc/SimpleCalc/SimpleCalc/main.swift"
+                  timestampString = "569177124.252502"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleCalc/main.swift"
+            timestampString = "569191457.363059"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "evaluateExpression(_:expression:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
